@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articles>
+    <article>
+        <id>1</id>
+        <title>Introduction à Vue.js</title>
+        <content>Vue.js est un framework JavaScript progressif pour la construction d'interfaces utilisateur.</content>
+    </article>
+    <article>
+        <id>2</id>
+        <title>Vue Router</title>
+        <content>Vue Router est le routeur officiel pour Vue.js. Il facilite la gestion des routes dans votre application.</content>
+    </article>
+    <article>
+        <id>3</id>
+        <title>Composition API</title>
+        <content>La Composition API introduite dans Vue 3 permet une meilleure modularité et réutilisabilité du code.</content>
+    </article>
+</articles>
